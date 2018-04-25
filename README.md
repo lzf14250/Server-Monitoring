@@ -26,6 +26,9 @@
  - Real time net speed.
  - All processes details dynamically listed in form of page-switchable table.
 
+## Link
+[http://cse.xited.io:8000](http://cse.xited.io:8000)
+
 ## Login
  - username: cjh
  - password: cuijinhao
