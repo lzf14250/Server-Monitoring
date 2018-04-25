@@ -25,7 +25,7 @@ SECRET_KEY = 'u@v!0dphmh^e$(n17#2e@c2a)@rzdq4j0-34#kl-78@0kuy+h2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cse.xited.io','ec2-18-217-192-254.us-east-2.compute.amazonaws.com']
+ALLOWED_HOSTS = ['cse.xited.io']
 
 
 # Application definition
