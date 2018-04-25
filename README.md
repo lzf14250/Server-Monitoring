@@ -1,29 +1,31 @@
-# README #
+# Creative Project
+### Pythonitor: a system resource monitor based on django and react.js
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Contributors
+ - Jinhao Cui : 457919
+ - Zhuofu Li : 458948
 
-### What is this repository for? ###
+## Web Framework
+ - Front end : React.js V16.3.2
+ - Back end : Django V2.0.4
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Other 3rd-party libs used (maybe not fully listed here)
+#### front end:
+ - Chart.js
+ - jquery
+ - react-table
+#### back end
+ - psutil
+#### dev tools
+ - node.js
+ - webpack
+ - bundle
 
-### How do I get set up? ###
+## Creatie portion
+ - Add some other information of the server, including CPU core numbers, CPU occupied times and network info.
+ - Real time net speed.
+ - All processes details dynamically listed in form of page-switchable table.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Login
+ - username: cjh
+ - password: cuijinhao

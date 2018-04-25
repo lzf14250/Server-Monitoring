@@ -1,0 +1,31 @@
+{
+  "name": "reactchart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "chart.js": "^2.7.2",
+    "css-loader": "^0.28.11",
+    "jquery": "^3.3.1",
+    "react": "^16.3.2",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.2",
+    "svg-loader": "0.0.2",
+    "webpack": "^4.6.0",
+    "yarn": "^1.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.15"
+  }
+}

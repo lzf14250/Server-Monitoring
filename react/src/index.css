@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.detail{
+  max-width: 1300px;
+  margin: auto;
+}
+.halfWidth{
+  width:49%;
+}
+.left{
+  display: inline-block;
+  float:left;
+}
+.right{
+  display: inline-block;
+  float:right;
+}
+.info_font{
+  font-size: 20px;
+}
+.no-center{
+  text-align: left;
+}
